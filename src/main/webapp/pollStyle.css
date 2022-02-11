@@ -1,0 +1,35 @@
+#piechart{
+    width: 600px;
+    height: 500px;
+    display: none;
+}
+
+#pollManagerOptions {
+    display: none;
+}
+
+#pollCreation{
+    display: none;
+}
+
+#pollUpdate{
+    display: none;
+}
+
+#poll{
+    display: none;
+}
+
+#download_link{
+    display: none;
+}
+
+button{
+    margin:10px
+}
+#divPollIdForResult{
+    display: none;
+}
+#divPollIdForVote{
+    display: none;
+}
